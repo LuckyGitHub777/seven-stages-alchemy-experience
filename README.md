@@ -8,4 +8,4 @@ Open [index.html](index.html) in a modern browser. Enter a real question or proj
 
 The stages are a **symbolic framework for reflection**, not a medical intervention, historical reconstruction, proof of an alchemical mechanism, or prediction of outcomes. No account, cloud model or hosted backend is required.
 
-**License:** The included MIT [LICENSE](LICENSE) preserves the contributors' notice. [MANIFEST.sha256](MANIFEST.sha256) records the released source.
+**License:** The included MIT [LICENSE](LICENSE) applies, including its contributors' notice. [MANIFEST.sha256](MANIFEST.sha256) records the released source.
